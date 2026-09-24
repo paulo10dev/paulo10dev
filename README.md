@@ -1,16 +1,26 @@
-## Hi there 👋
+Olá! Eu sou Paulo 👋
 
-<!--
-**paulo10dev/paulo10dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedor Web em formação  
+🚀 Atualmente estudando desenvolvimento web
 
-Here are some ideas to get you started:
+🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Git/GitHub
+
+📚 Atualmente estudando
+
+- Desenvolvimento Web
+- JavaScript
+- Banco de dados
+- Git e GitHub
+
+🎯 Objetivo
+
+Construir projetos reais, evoluir minhas habilidades
+e ingressar profissionalmente na área de desenvolvimento.
